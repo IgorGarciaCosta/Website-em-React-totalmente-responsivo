@@ -32,7 +32,7 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     {/*faz o icone mudar entre barras e X com clique*/}
-                    <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+                    <Link to='/'className="navbar-logo" onClick={closeMobileMenu}>
                         TRVL <i className="fab fa-typo3"/>
                     </Link>
                     <div className="menu-icon" onClick = {handleClick}>
