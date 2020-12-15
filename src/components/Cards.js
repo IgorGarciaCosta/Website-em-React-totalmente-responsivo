@@ -12,14 +12,14 @@ function Cards() {
                         <CardItem
                             src='images/img-9.jpg'
                             text='Explore a cachoeira escondida no centro da floresta amazônica'
-                            label='Adventure'
+                            label='Aventura'
                             path="/services"
                         />
 
                         <CardItem
                             src='images/img-2.jpg'
                             text="Viaje pelas ilhas de Bali em um cruzeiro privado"
-                            label="Luxury"
+                            label="Luxo"
                             path="/services"
                         />
 
@@ -29,21 +29,21 @@ function Cards() {
                         <CardItem
                             src='images/img-3.jpg'
                             text='Veleje pelo oceano atlântico visitando águas desconhecidas'
-                            label='Adventure'
+                            label='Aventura'
                             path="/services"
                         />
 
                         <CardItem
                             src='images/img-4.jpg'
                             text="Experiencie uma partida de futebol no topo das montanhas do Himalaia"
-                            label="Luxury"
+                            label="Luxo"
                             path="/services"
                         />
 
                         <CardItem
                             src='images/img-8.jpg'
                             text="Viaje pelo deserto do Saara em um tour guado de camelo"
-                            label="Luxury"
+                            label="Luxo"
                             path="/services"
                         />
 

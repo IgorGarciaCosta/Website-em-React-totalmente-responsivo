@@ -22,17 +22,17 @@ function Footer() {
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>Sobre mim</h2>
-                        <div>
+                        <a>
                             Me chamo Igor Garcia, estudante de engenharia de computação. Este site tem como intuito treinar habilidades de implementação em react.
-                        </div>
+                        </a>
                     </div>
 
                     <section className="social-media">
-                        <div className="sociam-media-wrap">
+                        <div className="social-media-wrap">
                             <div className="footer-logo">
                                 <Link to="/" className="social-logo">  TRLV <i className="fab fa-typo3"> </i></Link>
                                 <small className="website-rights">TRLV 2020</small>
-                                <div className="social-icons">MÍDIAS SOCIAIS
+                                <div className="social-icons">
                                     <a  href = "https://github.com/IgorGarciaCosta/Website-em-React-totalmente-responsivo" className="social-icon-link github" to="/" target="_blank" aria-label="Github">
                                         <i className="fab fa-github"></i>
                                     </a>
